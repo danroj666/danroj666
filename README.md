@@ -6,7 +6,7 @@
 
 ---
 
-<p align="right">
+<p align="lefth">
   <a href="mailto:rojod0946@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
