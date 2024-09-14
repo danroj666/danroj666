@@ -8,9 +8,10 @@
 
 <p align="center">
   <a href="mailto:rojod0946@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 ## 📈 Sobre mí
 
