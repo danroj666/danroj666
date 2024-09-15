@@ -17,3 +17,5 @@
 
 - 👾 Actualmente sigo aprendiendo Desarrollo Web y Desarrollo enfocado en dispositivos móviles.
 - 🎯 Estoy buscando nuevas oportunidades de crecimiento laboral.
+
+## Tecnologias 
