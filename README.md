@@ -19,4 +19,4 @@
 - 🎯 Estoy buscando nuevas oportunidades de crecimiento laboral.
 
 ## Tecnologias 
-- lenguajes : php
+- lenguajes : PHP, JS
