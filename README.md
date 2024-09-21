@@ -20,3 +20,4 @@
 
 ## Tecnologias 
 - lenguajes : PHP, JS
+- Frontend : HTML
