@@ -1,206 +1,75 @@
-<div align="center">
+<h1 align="center">Hola, soy Daniel Rojo Reyes 👋</h1>
 
-# 👋 Hola, soy Daniel Rojo Reyes
+<p align="center">
+💻 Full Stack Developer • 📊 Data Analyst • 🤖 Machine Learning Enthusiast
+</p>
 
-### 💻 Full Stack Developer | 📊 Data Analyst | 🤖 Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Ingeniero+en+Sistemas+Computacionales;Desarrollador+Full+Stack;Analista+de+Datos;Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n" />
-
-</div>
+<p align="center">
+Estudiante de Ingeniería en Sistemas Computacionales apasionado por el desarrollo de software, análisis de datos y creación de soluciones tecnológicas.
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** con experiencia en desarrollo de aplicaciones web, construcción de APIs REST, análisis de datos y machine learning.
-
-Actualmente participo en el desarrollo y mantenimiento de plataformas web en producción, colaborando en soluciones escalables que integran frontend, backend y bases de datos.
-
-Me apasiona transformar datos en información útil y construir software que genere impacto real.
-
----
-
-## 🎯 Objetivos Profesionales
-
-- Desarrollar soluciones web escalables y seguras.
-- Especializarme en Ciencia de Datos e Inteligencia Artificial.
-- Participar en proyectos tecnológicos de alto impacto.
-- Continuar creciendo como desarrollador Full Stack.
+- 🎓 Ingeniería en Sistemas Computacionales
+- 💼 Experiencia desarrollando plataformas web en producción
+- 🔧 Desarrollo de APIs REST y aplicaciones Full Stack
+- 📊 Interés en Ciencia de Datos y Machine Learning
+- 🌱 Aprendiendo constantemente nuevas tecnologías
 
 ---
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
+### Desarrollo Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue,laravel,django,flask" />
 </p>
 
-### Frontend
+### Bases de Datos y Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,bootstrap" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,laravel,spring" />
-</p>
-
-### Ciencia de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### Data Science
 
 ```text
-Pandas
-NumPy
-Matplotlib
-Scikit-Learn
-Machine Learning
-Análisis de Datos
-Visualización de Datos
-```
-
-### Herramientas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danroj666&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danroj666&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danroj666&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📂 Proyectos Destacados
-
-## 🛒 Sistema de Punto de Venta
-
-Sistema web para administración de productos, ventas e inventario.
-
-**Tecnologías**
-
-- PHP
-- MySQL
-- Bootstrap
-- JavaScript
-
----
-
-## 📊 Titanic Prediction
-
-Modelo predictivo utilizando Machine Learning para clasificación de supervivencia.
-
-**Tecnologías**
-
-- Python
-- Pandas
-- Scikit-Learn
-- Django
-
----
-
-## 📧 Spam Classifier
-
-Clasificador de correos Spam/Ham mediante procesamiento de lenguaje natural.
-
-**Tecnologías**
-
-- Python
-- Machine Learning
-- NLP
-
----
-
-## 😃 Emotion Detection API
-
-API para detección de emociones mediante visión por computadora.
-
-**Tecnologías**
-
-- Flask
-- OpenCV
-- Python
-
----
-
-## 📉 Data Analytics Portfolio
-
-Colección de análisis exploratorios, visualizaciones y modelos predictivos.
-
-**Tecnologías**
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-
----
-
-# 💼 Experiencia
-
-### Full Stack Developer
-
-**Clever Cloud**
-
-- Desarrollo de plataformas web en producción.
-- Construcción e integración de APIs REST.
-- Implementación de nuevas funcionalidades.
-- Gestión de bases de datos.
-- Trabajo colaborativo bajo metodología Scrum.
-
----
-
-# 📚 Actualmente Aprendiendo
-
-```text
-✓ Machine Learning Avanzado
-✓ FastAPI
-✓ Docker
-✓ Power BI
-✓ Arquitectura de Software
-✓ Inteligencia Artificial
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn
 ```
 
 ---
 
-# 📫 Contacto
+## 📂 Proyectos Destacados
 
-📧 rojod0946@gmail.com
+### 🛒 Sistema Punto de Venta
+Sistema web para gestión de productos, inventario y ventas.
 
-📱 5621700630
+### 😃 Emotion Detection API
+API desarrollada con Flask para detección de emociones mediante visión por computadora.
 
-💻 https://github.com/danroj666
+### 📧 Spam Classifier
+Clasificador de correos utilizando procesamiento de texto y Machine Learning.
+
+### 📊 Titanic Prediction
+Modelo predictivo construido con Python y Scikit-Learn.
 
 ---
 
-<div align="center">
+## 📈 Actualmente
 
-### ⚡ "La disciplina supera al talento cuando el talento no es disciplinado."
+- 🚀 Desarrollador Web en Clever Cloud
+- 📚 Profundizando en Inteligencia Artificial y Ciencia de Datos
+- 💡 Construyendo proyectos Full Stack y APIs escalables
 
-⭐ Gracias por visitar mi perfil.
+---
 
-</div>
+## 📫 Contacto
+
+📧 **rojod0946@gmail.com**
+
+💻 **github.com/danroj666**
+
+⭐ Siempre abierto a colaborar en proyectos interesantes y oportunidades de crecimiento profesional.
